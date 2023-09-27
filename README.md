@@ -1,4 +1,4 @@
-### 👨‍💻 App Developer | Founder
+## 👨‍💻 App Developer | Founder
 
 👋 Hello, I'm Yafes – a passionate app developer, currently on a journey of continuous learning in the realm of app development. I am dedicated to applying my knowledge and skills directly to real projects. With a cup of coffee in one hand and my keyboard in the other, I am tirelessly working on creating innovative platforms and apps!
 
