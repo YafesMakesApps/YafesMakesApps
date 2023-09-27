@@ -4,7 +4,7 @@
 
 🌟 Current Mission: Developing a pioneering platform for the food truck industry. We're connecting gourmet enthusiasts and mobile chefs in new and exciting ways. 🚚🍔
 
-🔧 My Tech Stack:
+🔧 My Tech-Stack:
 - 📱 Kotlin and Swift for mobile app development
 - 🌐 HTML, CSS3, and JavaScript for web applications
 - 💻 PHP and SQL for robust back-end logic
