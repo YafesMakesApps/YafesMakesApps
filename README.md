@@ -1,6 +1,6 @@
 ### 👨‍💻 App Developer | Founder
 
-👋 Hello, I'm Yafes – a passionate app developer, currently dedicated to the world of app development. With a cup of coffee in one hand and my keyboard in the other, I am working on creating an innovative platform set to revolutionize the world of mobile gastronomy.
+👋 Hello, I'm Yafes – a passionate app developer, currently on a journey of continuous learning in the realm of app development. I am dedicated to applying my knowledge and skills directly to real projects. With a cup of coffee in one hand and my keyboard in the other, I am tirelessly working on creating innovative platforms and apps!
 
 🌟 Current Mission: Developing a pioneering platform for the food truck industry. We're connecting gourmet enthusiasts and mobile chefs in new and exciting ways. 🚚🍔
 
